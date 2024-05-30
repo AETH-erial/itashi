@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	itashi "git.aetherial.dev/aeth/itashi/pkg"
+	itashi "github.com/AETH-erial/itashi/pkg"
 	tea "github.com/charmbracelet/bubbletea"
 )
 
