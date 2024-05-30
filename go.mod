@@ -1,4 +1,4 @@
-module git.aetherial.dev/aeth/itashi
+module github.com/AETH-erial/itashi
 
 go 1.22.3
 
